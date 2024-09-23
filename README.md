@@ -1,23 +1,23 @@
-# Phase 1 Project Description
+# Aircraft Risk Profiling: Business Decisions in Aviation.
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+# Executive summary
 
-Now you will put your new skills to use with a large end-of-Phase project!
+# Business Understanding
 
-In this project description, we will cover:
+**Problem statement** - Identifying the least risky aircraft to launch the company's new venture at a reasonable and fair price. Moreover, to achieve a successful entry into the market.
+**Key Stakeholders** - Stakeholders will be of wide range.
+Internal {Company stakeholders, potential investors}; External {government policies, competition(other airline businesses), customers}
+**Responsibility** - Acclimating to the aviation sector successfully and selecting an aircrafts with the lowest risk.
+**Resources**- Industry reports, budget, data on aircraft safety and expert consultations.
+**Risks** - Possibility of financial loss, accidents involving safety.
 
-* [***Project Overview:***](#project-overview) the project goal, audience, and dataset
-* [***Deliverables:***](#deliverables) the specific items you are required to produce for this project
-* [***Grading:***](#grading) how your project will be scored
-* [***Getting Started:***](#getting-started) guidance for how to begin your first project
+## Project Goal
 
-## Project Overview
+My project targets to know the sorts of planes utilied in business/commercial and private enterprices. What place manufacturing and assembling companies are more inclined to accidents and mishaps. I expect to be aware if the accidents are because of human error or plane's condition. The recurrence of accidents and losses in the business is significant. Therefore, I need to realize how frequently are plane accidents.
 
-For this project, you will use data cleaning, imputation, analysis, and visualization to generate insights for a business stakeholder.
+### Data Understanding
 
-### Business Problem
-
-Your company is expanding in to new industries to diversify its portfolio. Specifically, they are interested in purchasing and operating airplanes for commercial and private enterprises, but do not know anything about the potential risks of aircraft. You are charged with determining which aircraft are the lowest risk for the company to start this new business endeavor. You must then translate your findings into actionable insights that the head of the new aviation division can use to help decide which aircraft to purchase.
+My project entails information that has previously been collected by different data scientists. The data is stored in **Kaggle** whereby it is uptated reguraly, and is stored in a **csv format**. When I read the data to my notebook using pandas library, I get a dataframe with 90348 rows and 31 columns. From a brief look at the dataframe, we realize that the information we are dealing with is from investigation of aircraft accidents. I have both categorical and continuous data , with the former making the most part of our data.
 
 ### The Data
 

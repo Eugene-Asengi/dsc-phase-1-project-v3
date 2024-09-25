@@ -41,7 +41,8 @@ My project entails information that has previously been collected by different d
 - Decided to drop columns that are not relevant to my study and they included: Schedule, FAR.Description, Latitude, Longitude, Location, Air.carrier and Airport.Name. The column named Schedule has more than 85% missing values and Air.Carrier has more than 80% missing values as well.
 - Next, all rows with missing values were not adding any value to the data, hence I dropped them. Continuous data with null values were replaced by their **median** since it is less sensitive to outliers than mean.
 
-VISUALIZATIONS.
+VISUALIZATIONS.  
+
 This is a visualization that portrays a comparison of Engine types that caused the highest number of fatal accidents.
 ![Image_Alt](https://github.com/Eugene-Asengi/dsc-phase-1-project-v3/blob/bb88df5e76a121244803204f511fdf90b952d7c8/VIZ1.png)
 This is a visualization that portrays a comparison of the type of Aircraft categories with minor injuries after accidents.

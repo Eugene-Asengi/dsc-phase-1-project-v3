@@ -42,7 +42,7 @@ My project entails information that has previously been collected by different d
 - Next, all rows with missing values were not adding any value to the data, hence I dropped them. Continuous data with null values were replaced by their **median** since it is less sensitive to outliers than mean.
 
 DATA VISUALIZATION.
-![Image_Alt]()
+![Image_Alt](https://github.com/Eugene-Asengi/dsc-phase-1-project-v3/blob/bb88df5e76a121244803204f511fdf90b952d7c8/VIZ1.png)
 
 ## Conclusion and findings
 Based on the comprehensive analysis and exploratory data analysis (EDA) conducted, the following conclusions can be drawn:  

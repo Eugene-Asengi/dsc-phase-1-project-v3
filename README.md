@@ -55,5 +55,8 @@ Based on the comprehensive analysis and exploratory data analysis (EDA) conducte
 1. Engine-type turbo fan caused most fatal accidents whereas geared turbo fan & LR were the most safest engines since they did not cause any accidents.  
 2. Safest aircraft were; Blimp & Airplanes. Blimp has no fatalities at all and a low injury rate overall, whereas airplanes have low fatal injuries and the highest rate of uninjured individuals, hence they seem relatively safe.  
 3. WSFT is the aircraft that recorded the least amount of survivors after an accident, therefore being considered the most dangerous aircraft.  
-4. Powered-Lift, ULTR, and UNK are the aircraft that did not cause any fatal injuries after an accident. 
+4. Powered-Lift, ULTR, and UNK are the aircraft that did not cause any fatal injuries after an accident.
+
+## RECOMMENDATIONS
+Based on our conclusions and observations, we can go ahead and make the following recommendation: The best engine types to be used in aircraft are Geared Turbofan and LR since they have they caused zero(0) fatal accidents. As the company decides to venture in this business they ought to invest in the two engines.
 

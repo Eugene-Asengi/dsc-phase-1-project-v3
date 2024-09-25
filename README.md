@@ -17,8 +17,8 @@ Comparative analysis and Visualization
 Conclusion and insights
 
 # Business Questions with Respect to Safety
-1. What frameworks are set up for observing basic parameters during flight?
-2. How to guarantee the usefulness and functionality of emergency systems?
+1. What are the best types of aircraft to invest in that are the least risky?
+2. How to guarantee which engine type is the safest in an aircraft?
 3. What backup plans are in place for flight systems?
 
 # Business Understanding

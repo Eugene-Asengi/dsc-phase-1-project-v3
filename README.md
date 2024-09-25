@@ -44,6 +44,7 @@ My project entails information that has previously been collected by different d
 DATA VISUALIZATION.
 ![Image_Alt](https://github.com/Eugene-Asengi/dsc-phase-1-project-v3/blob/bb88df5e76a121244803204f511fdf90b952d7c8/VIZ1.png)
 ![Image_Alt](https://github.com/Eugene-Asengi/dsc-phase-1-project-v3/blob/4c8f5bc141d6a0e2f46b7d0824f3768ca319ea45/VIZ4.png)
+![Image_Alt](https://github.com/Eugene-Asengi/dsc-phase-1-project-v3/blob/5209101bcb2cfe60552785dae1b676b2ced755b7/VIZ2.png)
 
 ## Conclusion and findings
 Based on the comprehensive analysis and exploratory data analysis (EDA) conducted, the following conclusions can be drawn:  

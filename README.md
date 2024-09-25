@@ -1,5 +1,6 @@
 # Aircraft Safety Survey.
 
+![Image_Alt](https://github.com/Eugene-Asengi/dsc-phase-1-project-v3/blob/37bb9e320ec5354b2ea4f5b0f5740134b2bea66c/Aircraft%20photo.jpg)
 
 # Introduction
 The aircraft industry has many options such as; the dimensions, functionality, cost and safety. In this analysis, the point is to investigate on the safety and wellbeing of various aircrafts utilizing the accident data from the Aviation_Data.csv.

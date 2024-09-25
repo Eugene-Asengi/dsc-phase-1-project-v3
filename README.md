@@ -44,7 +44,8 @@ My project entails information that has previously been collected by different d
 VISUALIZATIONS.  
 
 This is a visualization that portrays a comparison of Engine types that caused the highest number of fatal accidents.
-![Image_Alt](https://github.com/Eugene-Asengi/dsc-phase-1-project-v3/blob/bb88df5e76a121244803204f511fdf90b952d7c8/VIZ1.png)
+![Image_Alt](https://github.com/Eugene-Asengi/dsc-phase-1-project-v3/blob/bb88df5e76a121244803204f511fdf90b952d7c8/VIZ1.png)  
+
 This is a visualization that portrays a comparison of the type of Aircraft categories with minor injuries after accidents.
 ![Image_Alt](https://github.com/Eugene-Asengi/dsc-phase-1-project-v3/blob/4c8f5bc141d6a0e2f46b7d0824f3768ca319ea45/VIZ4.png)
 

@@ -1,5 +1,6 @@
 # Aircraft Safety Survey.
-plt.savefig('Aircraft photo.png')
+
+
 # Introduction
 The aircraft industry has many options such as; the dimensions, functionality, cost and safety. In this analysis, the point is to investigate on the safety and wellbeing of various aircrafts utilizing the accident data from the Aviation_Data.csv.
 
